@@ -13,7 +13,10 @@ Photo by <a href="https://unsplash.com/@mahdi17?utm_source=unsplash&utm_medium=r
 * **Output**    : Dashboard
 
 ### [Stock Analysis](https://github.com/namakutiwik/Stocks-with-R/blob/main/Stocks_in_R.ipynb)
+![alt text](md-mahdi-lQpFRPrepQ8-unsplash.jpg)
 
+Photo by <a href="https://unsplash.com/@claybanks?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Clay Banks</a> on <a href="https://unsplash.com/s/photos/stock-market?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
 * **Skill**     : Machine Learning
 * **Tools**     : R (google collab)
 * **Dataset**   : Stock (from yahoo finance)

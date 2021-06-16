@@ -33,7 +33,7 @@ Photo by <a href="https://unsplash.com/@withluke?utm_source=unsplash&utm_medium=
 * **Output**    : Price prediction (linear regression, svm, random forest)
 
 ### [Rent Stores](https://github.com/namakutiwik/Dbeaver/blob/master/PracticeCase1.sql)
-![alt text](luke-stackpoole-eWqOgJ-lfiI-unsplash.jpg)
+![alt text](denise-jans-Lq6rcifGjOU-unsplash.jpg)
 
 Photo by <a href="https://unsplash.com/@dmjdenise?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Denise Jans</a> on <a href="https://unsplash.com/s/photos/film?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   

@@ -4,7 +4,8 @@ You can use the [editor on GitHub](https://github.com/namakutiwik/Portfolio/edit
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Football Player: Prestigious Profession (https://github.com/namakutiwik/Tableau/blob/main/DatVis-Tableau.jpg)
+### Football Player: Prestigious Profession 
+(https://github.com/namakutiwik/Tableau/blob/main/DatVis-Tableau.jpg) 
 
 Tools   : Tableau
 Input   : Football player performance

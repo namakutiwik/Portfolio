@@ -9,29 +9,12 @@ I am a data enthusiast. It is really nice to discover data and find its insight.
 * Dataset   : Football player performance
 * Output    : Dashboard
 
-```markdown
-Syntax highlighted code block
+### [Stock Analysis](https://github.com/namakutiwik/Stocks-with-R/blob/main/Stocks_in_R.ipynb)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/namakutiwik/Portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+* Skill     : Exploratory Data Analysis
+* Tools     : R in google collab
+* Dataset   : Stock (from yahoo finance)
+* Output    : Stocks Portfolio
 
 ### Support or Contact
 

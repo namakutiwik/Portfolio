@@ -11,17 +11,24 @@ I am a data enthusiast. It is really nice to discover data and find its insight.
 
 ### [Stock Analysis](https://github.com/namakutiwik/Stocks-with-R/blob/main/Stocks_in_R.ipynb)
 
-* Skill     : Exploratory Data Analysis
+* Skill     : Machine Learning
 * Tools     : R (google collab)
 * Dataset   : Stock (from yahoo finance)
-* Output    : Stocks Portfolio
+* Output    : Stocks Portfolio (clustering)
 
 ### [House Price Prediction](https://github.com/namakutiwik/house-price-prediction/blob/master/HousePricePrediction3.ipynb)
 
 * Skill     : Machine Learning
 * Tools     : python (Jupyter Notebook)
 * Dataset   : House Price (from kaggle)
-* Output    : Prediction using linear regression, svm, random forest
+* Output    : Price prediction (linear regression, svm, random forest)
+
+### [Rent Stores](https://github.com/namakutiwik/Dbeaver/blob/master/PracticeCase1.sql)
+
+* Skill     : Data Analysis
+* Tools     : SQL (Dbeaver)
+* Dataset   : Rental data
+* Output    : Exploratory Data Analysis
 
 #### [My website](https://namakutiwik.github.io/Portfolio/)
 

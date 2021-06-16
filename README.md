@@ -5,17 +5,23 @@ I am a data enthusiast. It is really nice to discover data and find its insight.
 ### [Football Player: Prestigious Profession](https://github.com/namakutiwik/Tableau/blob/main/DatVis-Tableau.jpg)
 
 * Skill     : Visualization
-* Tools     : Tableau
+* Tools     : Tableau public
 * Dataset   : Football player performance
 * Output    : Dashboard
 
 ### [Stock Analysis](https://github.com/namakutiwik/Stocks-with-R/blob/main/Stocks_in_R.ipynb)
 
 * Skill     : Exploratory Data Analysis
-* Tools     : R in google collab
+* Tools     : R (google collab)
 * Dataset   : Stock (from yahoo finance)
 * Output    : Stocks Portfolio
 
-### Support or Contact
+### [House Price Prediction](https://github.com/namakutiwik/house-price-prediction/blob/master/HousePricePrediction3.ipynb)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+* Skill     : Machine Learning
+* Tools     : python (Jupyter Notebook)
+* Dataset   : House Price (from kaggle)
+* Output    : Prediction using linear regression, svm, random forest
+
+#### [My website](https://namakutiwik.github.io/Portfolio/)
+

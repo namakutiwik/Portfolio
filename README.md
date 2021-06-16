@@ -23,7 +23,7 @@ Photo by <a href="https://unsplash.com/@claybanks?utm_source=unsplash&utm_medium
 * **Output**    : Stocks Portfolio (clustering)
 
 ### [House Price Prediction](https://github.com/namakutiwik/house-price-prediction/blob/master/HousePricePrediction3.ipynb)
-![alt text](clay-banks-TuVChJ1P0IY-unsplash.jpg)
+![alt text](luke-stackpoole-eWqOgJ-lfiI-unsplash.jpg)
 
 Photo by <a href="https://unsplash.com/@withluke?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Luke Stackpoole</a> on <a href="https://unsplash.com/s/photos/house?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   

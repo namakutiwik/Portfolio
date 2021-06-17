@@ -18,6 +18,8 @@ Recently, football is not only an ordinary sport but also becomes an Internation
 ![alt text](clay-banks-TuVChJ1P0IY-unsplash.jpg)
 
 Photo by <a href="https://unsplash.com/@claybanks?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Clay Banks</a> on <a href="https://unsplash.com/s/photos/stock-market?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+
+I did this project to evaluate my stock portfolio. I clustered some stocks with a good return and minimum risk to be my recommended stock.
   
 * **Skill**     : Machine Learning
 * **Tools**     : R (google collab)
@@ -28,6 +30,8 @@ Photo by <a href="https://unsplash.com/@claybanks?utm_source=unsplash&utm_medium
 ![alt text](luke-stackpoole-eWqOgJ-lfiI-unsplash.jpg)
 
 Photo by <a href="https://unsplash.com/@withluke?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Luke Stackpoole</a> on <a href="https://unsplash.com/s/photos/house?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+
+This project was a learning path for me to understand machine learning. It predicted the houses based on their features such as location, its environment, and others.
   
 * **Skill**     : Machine Learning
 * **Tools**     : python (Jupyter Notebook)
@@ -38,6 +42,8 @@ Photo by <a href="https://unsplash.com/@withluke?utm_source=unsplash&utm_medium=
 ![alt text](denise-jans-Lq6rcifGjOU-unsplash.jpg)
 
 Photo by <a href="https://unsplash.com/@dmjdenise?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Denise Jans</a> on <a href="https://unsplash.com/s/photos/film?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+
+That moment was incredible when I wrote SQL code for the first time through this project. It is a simple analysis to know the popular film, popular store, loyal customer, and the profit.
   
 * **Skill**     : Data Analysis
 * **Tools**     : SQL (Dbeaver)

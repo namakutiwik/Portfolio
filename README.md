@@ -7,7 +7,7 @@ I am a data enthusiast. It is really nice to discover data and find its insight.
 
 Photo by <a href="https://unsplash.com/@mahdi17?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Md Mahdi</a> on <a href="https://unsplash.com/s/photos/football?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
-Recently, football is not only an ordinary sport but also becomes an International tournament. The football player is a prestigious profession since it offers a high salary. This project is to evaluate the connection between players' performance with their wages. It includes the age, country, and total player during the time.
+Recently, football is not only an ordinary sport but also becomes an International tournament. The football player is a prestigious profession since it offers a high salary. This project is to evaluate the connection between players' performance with their wages, age, country, and total player during the time.
 
 * **Skill**     : Visualization
 * **Tools**     : Tableau public

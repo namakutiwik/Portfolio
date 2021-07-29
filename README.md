@@ -5,8 +5,8 @@ I am a data enthusiast. I love to discover data and find its insight. Here are s
 ### [New York Citi Bike](https://github.com/namakutiwik/Advanced-SQL)
 ![alt text](denise-jans-Lq6rcifGjOU-unsplash.jpg)
 
-Photo by <a href="https://unsplash.com/@dmjdenise?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Denise Jans</a> on <a href="https://unsplash.com/s/photos/film?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-
+Photo by <a href="https://unsplash.com/@suspct?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Jordan</a> on <a href="https://unsplash.com/s/photos/citibike?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
 I was trying to write SQL in more advanced style. This project is done to complete the pre-requisite joining DTO family.
   
 * **Skill**     : Data Analysis

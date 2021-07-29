@@ -1,6 +1,30 @@
 ## Pratiwi Eka Puspita
 
-I am a data enthusiast. It is really nice to discover data and find its insight. Here are some personal projects related to data analysis. For detail explanation about the project, you may visit my [medium](https://medium.com/@namakutiwik) to read the referred articles. Also, please reach my [linkedin](https://www.linkedin.com/in/pratiwi-eka-puspita/) to keep connecting.
+I am a data enthusiast. I love to discover data and find its insight. Here are some of my personal projects related to data analysis. For detail explanation about the project, you may visit my blog at [medium](https://medium.com/@namakutiwik) to read the referred articles. Also, please reach me on [linkedin](https://www.linkedin.com/in/pratiwi-eka-puspita/) to keep connecting.
+
+### [New York Citi Bike](https://github.com/namakutiwik/Advanced-SQL)
+![alt text](denise-jans-Lq6rcifGjOU-unsplash.jpg)
+
+Photo by <a href="https://unsplash.com/@dmjdenise?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Denise Jans</a> on <a href="https://unsplash.com/s/photos/film?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+
+I was trying to write SQL in more advanced style. This project is done to complete the pre-requisite joining DTO family.
+  
+* **Skill**     : Data Analysis
+* **Tools**     : SQL (BigQuery)
+* **Dataset**   : New York Citi Bike
+* **Output**    : Exploratory Data Analysis
+
+### [Rent Stores](https://github.com/namakutiwik/Dbeaver/blob/master/PracticeCase1.sql)
+![alt text](denise-jans-Lq6rcifGjOU-unsplash.jpg)
+
+Photo by <a href="https://unsplash.com/@dmjdenise?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Denise Jans</a> on <a href="https://unsplash.com/s/photos/film?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+
+That moment was incredible when I wrote SQL code for the first time through this project. It is a simple analysis to know the popular film, popular store, loyal customer, and the profit.
+  
+* **Skill**     : Data Analysis
+* **Tools**     : SQL (Dbeaver)
+* **Dataset**   : Rental data
+* **Output**    : Exploratory Data Analysis
 
 ### [Football Player: Prestigious Profession](https://github.com/namakutiwik/Tableau/blob/main/DatVis-Tableau.jpg)
 ![alt text](md-mahdi-lQpFRPrepQ8-unsplash.jpg)
@@ -37,18 +61,6 @@ This project was a learning path for me to understand machine learning. It predi
 * **Tools**     : python (Jupyter Notebook)
 * **Dataset**   : House Price (from kaggle)
 * **Output**    : Price prediction (linear regression, svm, random forest)
-
-### [Rent Stores](https://github.com/namakutiwik/Dbeaver/blob/master/PracticeCase1.sql)
-![alt text](denise-jans-Lq6rcifGjOU-unsplash.jpg)
-
-Photo by <a href="https://unsplash.com/@dmjdenise?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Denise Jans</a> on <a href="https://unsplash.com/s/photos/film?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-
-That moment was incredible when I wrote SQL code for the first time through this project. It is a simple analysis to know the popular film, popular store, loyal customer, and the profit.
-  
-* **Skill**     : Data Analysis
-* **Tools**     : SQL (Dbeaver)
-* **Dataset**   : Rental data
-* **Output**    : Exploratory Data Analysis
 
 #### [My Website](https://namakutiwik.github.io/Portfolio/)
 

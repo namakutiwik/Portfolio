@@ -3,7 +3,7 @@
 I am a data enthusiast. I love to discover data and find its insight. Here are some of my personal projects related to data analysis. For detail explanation about the project, you may visit my blog at [medium](https://medium.com/@namakutiwik) to read the referred articles. Also, please reach me on [linkedin](https://www.linkedin.com/in/pratiwi-eka-puspita/) to keep connecting.
 
 ### [New York Citi Bike](https://github.com/namakutiwik/Advanced-SQL)
-![alt text](denise-jans-Lq6rcifGjOU-unsplash.jpg)
+![alt text](jordan-v8DrXpY-lXU-unsplash.jpg)
 
 Photo by <a href="https://unsplash.com/@suspct?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Jordan</a> on <a href="https://unsplash.com/s/photos/citibike?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   

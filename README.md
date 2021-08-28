@@ -7,7 +7,7 @@ I am a data enthusiast. I love to discover data and find its insight. Here are s
 
 Photo by <a href="https://unsplash.com/@sav_here?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Saurav Kundu</a> on <a href="https://unsplash.com/s/photos/cycle?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
     
-I was trying to write SQL in more advanced style. This project is done to complete the pre-requisite joining DTO family.
+I created an interactive dashboard to get a sense of the whole situation and or problem of the New York Citi Bike.
   
 * **Skill**     : Data Analysis
 * **Tools**     : SQL (BigQuery)
@@ -21,10 +21,10 @@ Photo by <a href="https://unsplash.com/@suspct?utm_source=unsplash&utm_medium=re
   
 I was trying to write SQL in more advanced style. This project is done to complete the pre-requisite joining DTO family.
   
-* **Skill**     : Data Analysis
-* **Tools**     : SQL (BigQuery)
+* **Skill**     : Visualization
+* **Tools**     : Tableau Student
 * **Dataset**   : New York Citi Bike
-* **Output**    : Exploratory Data Analysis
+* **Output**    : Dashboard
 
 ### [Rent Stores](https://github.com/namakutiwik/Dbeaver/blob/master/PracticeCase1.sql)
 ![alt text](denise-jans-Lq6rcifGjOU-unsplash.jpg)

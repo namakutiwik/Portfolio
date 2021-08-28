@@ -2,7 +2,19 @@
 
 I am a data enthusiast. I love to discover data and find its insight. Here are some of my personal projects related to data analysis. For detail explanation about the project, you may visit my blog at [medium](https://medium.com/@namakutiwik) to read the referred articles. Also, please reach me on [linkedin](https://www.linkedin.com/in/pratiwi-eka-puspita/) to keep connecting.
 
-### [New York Citi Bike](https://github.com/namakutiwik/Advanced-SQL)
+### [New York Citi Bike - Part 2](https://github.com/namakutiwik/New-York-CitiBike/blob/main/png2pdf.pdf)
+![alt text](saurav-kundu-H8QttyFgroY-unsplash.jpg)
+
+Photo by <a href="https://unsplash.com/@sav_here?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Saurav Kundu</a> on <a href="https://unsplash.com/s/photos/cycle?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+    
+I was trying to write SQL in more advanced style. This project is done to complete the pre-requisite joining DTO family.
+  
+* **Skill**     : Data Analysis
+* **Tools**     : SQL (BigQuery)
+* **Dataset**   : New York Citi Bike
+* **Output**    : Exploratory Data Analysis
+
+### [New York Citi Bike - Part 1](https://github.com/namakutiwik/Advanced-SQL)
 ![alt text](jordan-v8DrXpY-lXU-unsplash.jpg)
 
 Photo by <a href="https://unsplash.com/@suspct?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Jordan</a> on <a href="https://unsplash.com/s/photos/citibike?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>

@@ -3,6 +3,7 @@
 I am a data enthusiast. I love to discover data and find its insight. Here are some of my personal projects related to data analysis. For detail explanation about the project, you may visit my blog at [medium](https://medium.com/@namakutiwik) to read the referred articles. Also, please reach me on [linkedin](https://www.linkedin.com/in/pratiwi-eka-puspita/) to keep connecting.
 
 ### [COVID-19 Vaccination Dashboard](https://github.com/namakutiwik/COVID-19-Vaccination/blob/main/Desain%20Dasbor%20Vaksinasi%20COVID-19.pdf)
+![alt text](istockphoto-1288831657-1024x1024.jpg)
 
 ### [New York Citi Bike - Part 2](https://github.com/namakutiwik/New-York-CitiBike/blob/main/png2pdf.pdf)
 ![alt text](saurav-kundu-H8QttyFgroY-unsplash.jpg)

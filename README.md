@@ -5,7 +5,7 @@ I am a data enthusiast. I love to discover data and find its insight. Here are s
 ### [COVID-19 Vaccination Dashboard](https://github.com/namakutiwik/COVID-19-Vaccination/blob/main/Desain%20Dasbor%20Vaksinasi%20COVID-19.pdf)
 ![alt text](istockphoto-1288831657-1024x1024.jpg)
 
-Photo by on <a href="https://unsplash.com/s/photos/cycle?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+Photo by Wild Orchid on <a href="https://unsplash.com/s/photos/cycle?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
 I created a design for COVID-19 Dashboard to get a common insight so the public can understand the progress of vaccination. 
 

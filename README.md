@@ -7,7 +7,7 @@ I am a data enthusiast. I love to discover data and find its insight. Here are s
 
 I created a design for COVID-19 Dashboard to get a common insight so the public can understand the progress of vaccination. 
 
-Photo by Wild Orchid on Unsplash
+Photo by on <a href="https://unsplash.com/s/photos/cycle?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
 * **Skill**     : Visualization
 * **Tools**     : Tableau Student

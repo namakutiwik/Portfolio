@@ -10,7 +10,7 @@ Photo by Wild Orchid on <a href="https://unsplash.com/s/photos/cycle?utm_source=
 I created a design for COVID-19 Dashboard to get a common insight so the public can understand the progress of vaccination. 
 
 * **Skill**     : Visualization
-* **Tools**     : Tableau Student
+* **Tools**     : Miro Board
 * **Dataset**   : Dummy
 * **Output**    : Dashboard
 
